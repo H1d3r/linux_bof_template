@@ -1,3 +1,4 @@
+#include <stddef.h>
 #include "../../beacon.h"
 
 void go(char* args, int alen) {
